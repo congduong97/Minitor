@@ -1,7 +1,7 @@
 const COLOR = {
   white: '#FFF',
   dark: '#2A2A2A',
-  main_color: '#1976D2',
+  main_color: '#346cdb',
   //
   TRANSPARENT: 'transparent',
   BG_TRANSPARENT_30: 'rgba(0,0,0,0.3)',
